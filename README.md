@@ -3,7 +3,7 @@
 
 jupyter; matplotlib library;  training
 
-temperature / heating
+temperature / heating;
 temperature / gas
 
 
